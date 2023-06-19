@@ -7,14 +7,23 @@
 
 **Contato para Parcerias**
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-](https://wa.me/message/VY2FEKEHXRIGC1)&nbsp;
 [![E-mail](	https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 ](mailto:designtechti.dev@protonmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-](https://instagram.com/falso.dev)&nbsp;
+](https://instagram.com/designtechti.dev)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/n/designtechtidev)&nbsp;
 
+
+## Como executar o projeto
+
+1. Clone o repositório do GitHub:
+	```bash
+	git clone git@github.com:designtechti490/landing-page
+	```
+2. Execute o projeto no Browser com o Live Server do VS Code:
+	```bash
+	ALT + L / Alt + O
+	```	
 
 ## Tecnologias utilizadas
 
